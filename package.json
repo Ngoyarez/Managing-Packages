@@ -1,3 +1,22 @@
 {
-   "author": "Brian Ngoya",
+  "name": "managing-packages-using-npm",
+  "version": "1.0.0",
+  "description": "Managing Packages using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngoyarez/Managing-Packages.git"
+  },
+  "author": "Brian Ngoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ngoyarez/Managing-Packages/issues"
+  },
+  "homepage": "https://github.com/Ngoyarez/Managing-Packages#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
